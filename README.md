@@ -8,7 +8,8 @@ Obtaining diverse and extensive datasets to effectively train recent deep learni
 
 
 ## Dataset description
-At clothing production sites, various types of sewing defects are a common occurrence. This dataset contains the conditions for defects for each major sewing defect, as determined by experienced sewing workers. The dataset includes data on 11 fabrics, with sewing conditions set for dataset generation by combining threads with similar or opposite fabric colors. This configuration is intended to reflect the color and composition conditions of several fabrics and threads in the dataset, enabling the training of robust deep learning models for sewing defect detection. The potential impact of this dataset on the field of computer vision and textile manufacturing is significant. For each of the 11 combinations, 100 to 179 data points were produced for normal and 10 defective classes, resulting in a total of 13,424 sewing process images.
+At clothing production sites, various types of sewing defects are a common occurrence. This dataset contains the conditions for defects for each major sewing defect, as determined by experienced sewing workers. The dataset includes data on 11 fabrics, with sewing conditions set for dataset generation by combining threads with similar or opposite fabric colors. This configuration is intended to reflect the color and composition conditions of several fabrics and threads in the dataset, enabling the training of robust deep learning models for sewing defect detection. The potential impact of this dataset on the field of computer vision and textile manufacturing is significant. We captured an average of 221 normal and 103 defective images of 10 cases for each fabric-thread combination.
+ * Some defective combinations are undergoing quality improvement.
 
 ### Creation details
 - Time period: 2022.11 - 2023.03
