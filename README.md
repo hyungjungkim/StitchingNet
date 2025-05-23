@@ -1,11 +1,11 @@
 # StitchingNet Dataset
-A dataset of normal and defective stitch images for the industrial sewing process
+A dataset of 14,565 sewing stitch images for the industrial sewing procese
 
 ## Motivation
-In quality control, a sewing defect refers to inconsistencies in stitches when fabrics are joined together. To develop a method for detecting defects, having image datasets of sewing process data showing both normal and defective stitches is crucial.</br>
-Even though digital transformation has been rapidly spreading in the manufacturing industry, the fashion industry has been slow to adopt it. The industry heavily relies on labor and is mostly made up of small and medium-sized enterprises (SMEs). Despite significant evolution in design and consumption trends, the garment manufacturing process still relies on outdated sewing machines and low-wage labor. Therefore, the fashion industry lacks well-equipped digital infrastructure like other sectors such as e-commerce and finance.</br>
-Obtaining diverse and extensive datasets to effectively train recent deep learning models for the sewing process has been challenging due to the lack of monitoring functions on older sewing machines and the repetitive nature of work on the shop floor. Another challenge is that traditional industrial vision sensors for capturing images and detecting defects are costly and require additional computing equipment. This makes it challenging to integrate them with the existing sewing machine, which costs less than $1,000.
+In quality control, a sewing defect refers to inconsistencies in stitches when fabrics are joined together. To develop a method for detecting defects, having image datasets of sewing process data showing both normal and defective stitches is crucial. Even though digital transformation has been rapidly spreading in the manufacturing industry, the fashion industry has been slow to adopt it. The industry heavily relies on labor and is mostly made up of small and medium-sized enterprises (SMEs). Despite significant evolution in design and consumption trends, the garment manufacturing process still relies on outdated sewing machines and low-wage labor. Therefore, the fashion industry lacks well-equipped digital infrastructure like other sectors such as e-commerce and finance. Obtaining diverse and extensive datasets to effectively train recent deep learning models for the sewing process has been challenging due to the lack of monitoring functions on older sewing machines and the repetitive nature of work on the shop floor. Another challenge is that traditional industrial vision sensors for capturing images and detecting defects are costly and require additional computing equipment. This makes it challenging to integrate them with the existing sewing machine, which costs less than $1,000.
 
+## Original publication
+* Woo-Kyun Jung, Jingu Kang, Woojin Kwon, Hyungjung Kim, StitchingNet and deep transfer learning method for sewing stitch defect detection, Journal of Computational Design and Engineering, Volume 12, Issue 4, April 2025, Pages 140–154, https://doi.org/10.1093/jcde/qwaf037
 
 ## Dataset description
 At clothing production sites, various types of sewing defects are a common occurrence. This dataset contains the conditions for defects for each major sewing defect, as determined by experienced sewing workers. The dataset includes data on 11 fabrics, with sewing conditions set for dataset generation by combining threads with similar or opposite fabric colors. This configuration is intended to reflect the color and composition conditions of several fabrics and threads in the dataset, enabling the training of robust deep learning models for sewing defect detection. The potential impact of this dataset on the field of computer vision and textile manufacturing is significant. We captured an average of 221 normal and 103 defective images of 10 cases for each fabric-thread combination.
@@ -25,9 +25,6 @@ At clothing production sites, various types of sewing defects are a common occur
 
 ## Download data
 All StitchingNet data can be downloaded directly from our [Google Cloud Storage bucket](https://console.cloud.google.com/storage/browser/stitchingnet-v1).
-
-## Paper & Citation
-(To be updated.)
 
 ## License
 The StitchingNet is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). 
