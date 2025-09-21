@@ -24,7 +24,7 @@ At clothing production sites, various types of sewing defects are a common occur
 <img src="images/dataset-samples.png" height="400"/>
 
 ## Download data
-All StitchingNet data can be downloaded directly from our [Google Cloud Storage bucket](https://console.cloud.google.com/storage/browser/stitchingnet-v1).
+All StitchingNet data can be downloaded directly from our [Kaggle](https://www.kaggle.com/datasets/hyungjung/stitchingnet-dataset).
 
 ## License
 The StitchingNet is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). 
