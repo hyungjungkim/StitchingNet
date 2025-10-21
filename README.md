@@ -1,4 +1,4 @@
-# StitchingNet Dataset
+# StitchingNet
 A dataset of 14,565 sewing stitch images for the industrial sewing process
 
 ## Motivation
@@ -27,6 +27,7 @@ At clothing production sites, various types of sewing defects are a common occur
 StitchingNet data can be downloaded directly from the following repositories:
 - [Kaggle](https://www.kaggle.com/datasets/hyungjung/stitchingnet-dataset)
 - [Mendeley data](https://data.mendeley.com/datasets/6tdthsjgfc/1)
+- [figshare](https://figshare.com/articles/dataset/_b_StitchingNet_b_A_dataset_of_14_5K_sewing_stitch_images_for_the_industrial_sewing_process/30407806)
 
 ## License
 The StitchingNet is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). 
