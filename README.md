@@ -24,7 +24,7 @@ At clothing production sites, various types of sewing defects are a common occur
 * Woo-Kyun Jung, Jingu Kang, Woojin Kwon, Hyungjung Kim, StitchingNet and deep transfer learning method for sewing stitch defect detection, Journal of Computational Design and Engineering, Volume 12, Issue 4, April 2025, Pages 140–154, https://doi.org/10.1093/jcde/qwaf037
 
 ## Download
-StitchingNet data can be downloaded directly from the following repositories:
+StitchingNet data can also be downloaded directly from the following repositories:
 - [Kaggle](https://www.kaggle.com/datasets/hyungjung/stitchingnet-dataset)
 - [Mendeley data](https://data.mendeley.com/datasets/6tdthsjgfc/1)
 - [figshare](https://figshare.com/articles/dataset/_b_StitchingNet_b_A_dataset_of_14_5K_sewing_stitch_images_for_the_industrial_sewing_process/30407806)
