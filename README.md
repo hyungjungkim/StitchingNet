@@ -35,4 +35,4 @@ The StitchingNet is licensed under [CC BY-NC 4.0](https://creativecommons.org/li
 ## Contact
 Please email Woo-Kyun Jung (wkjung@hojeon.co.kr, creator) or Hyungjung Kim (hyungjungkim@konkuk.ac.kr, maintainer) for any questions regarding the dataset.
 
-<img src="images/hojeon_limited.jpg" height="45"/>     <img src="images/konkuk_university.jpg" height="45"/>
+<img src="images/hojeon_limited.jpg" height="45"/>     <img src="images/konkuk_university.png" height="45"/>
